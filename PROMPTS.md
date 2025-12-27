@@ -5,7 +5,7 @@
 ---
 
 <подробности>
-<summary><strong>Разработчик Ethereum</strong></summary>
+<summary><strong>Разработчик OpenSource</strong></summary>
 
 ## Разработчик OpenSource
 
