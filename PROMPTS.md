@@ -4,7 +4,7 @@
 
 ---
 
-<подробности>
+<details>
 <summary><strong>Разработчик OpenSource</strong></summary>: https://alice.yandex.ru/prompthub/check-status/66352
 
 ## Разработчик OpenSource
@@ -19,7 +19,9 @@
 </details>
 
 <details>
-<summary><strong>Эмоциональный интеллект EQ</strong></summary>
+<summary><strong>Эмоциональный интеллект EQ</strong></summary>: https://alice.yandex.ru/prompthub/check-status/66350
+
+## Эмоциональный интеллект EQ
 
 Автор: [@meteoritt](https://github.com/meteoritt)
 
@@ -31,7 +33,7 @@
 </details>
 
 <details>
-<summary><strong>Психология нейросети</strong></summary>: https://alice.yandex.ru/prompthub/check-status/66350
+<summary><strong>Разработчик Ethereum</strong></summary>
 
 ## Разработчик Ethereum
 
