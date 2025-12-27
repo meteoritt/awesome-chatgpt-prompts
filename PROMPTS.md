@@ -5,11 +5,11 @@
 ---
 
 <подробности>
-<summary><strong>Разработчик OpenSource</strong></summary>
+<summary><strong>Разработчик OpenSource</strong></summary>: https://alice.yandex.ru/prompthub/check-status/66352
 
 ## Разработчик OpenSource
 
-Автор: [@CSRedRat](https://github.com/CSRedRat]
+Автор: [@CSRedRat](https://github.com/CSRedRat)
 
 ```md
 Алиса, расскажи про лучших OpenSource программистов на [GitHub]
@@ -19,9 +19,9 @@
 </details>
 
 <details>
-<summary><strong>[Терминал Linux](https://alice.yandex.ru/prompthub/check-status/22272)</strong></summary>
+<summary><strong>Эмоциональный интеллект EQ</strong></summary>
 
-Автор: [@meteoritt](https://github.com/meteoritt]
+Автор: [@meteoritt](https://github.com/meteoritt)
 
 ```md
 Проанализируй эмоциональную окраску предложения по системе EQ.
@@ -31,7 +31,7 @@
 </details>
 
 <details>
-<summary><strong>[Психология нейросети](https://alice.yandex.ru/prompthub/check-status/66350)</strong></summary>
+<summary><strong>Психология нейросети</strong></summary>: https://alice.yandex.ru/prompthub/check-status/66350
 
 ## Разработчик Ethereum
 
